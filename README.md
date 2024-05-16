@@ -22,6 +22,7 @@ J'ai ensuite créé le fichier Dockerfile
 ### Create a Development Branch and Implement Testing :
 J'ai créé la branche dev puis j'ai créé le fichier test.sh et ajouté le code donné sur la copie
 J'ai run pytest
+
 ![6](https://github.com/Dam-Git/controle/assets/169651002/2cd5ce7f-0564-4b5f-b4be-c78831bff445)
 
 
@@ -35,4 +36,4 @@ Et j'ai ajouté sur mon repo GitHub les secrets
 ![4](https://github.com/Dam-Git/controle/assets/169651002/b17163ef-83e5-4da7-8e42-e6c47bfd5a2a)
 
 
-Et j'ai fini par créer ce README
+Et j'ai fini par créer ce README.
