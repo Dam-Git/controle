@@ -6,6 +6,12 @@ j'ai ensuite ajouté cette clé dans le script créé par notre professeur.
 
 Puis j'ai lancé le script "mini_groq.py"
 
-Le site fonctionne
+Le site fonctionne !
 
 ![Capture](https://github.com/Dam-Git/controle/assets/169651002/6cce15f9-2c90-464f-8312-c584ed80ba23)
+
+
+### Setup and Dockerize the FastAPI Application :
+Bla bpa bla
+
+
